@@ -8,9 +8,6 @@ buildscript {
   }
 }
 
-java.sourceCompatibility = JavaVersion.VERSION_14
-java.targetCompatibility = JavaVersion.VERSION_14
-
 apply plugin: 'kotlin'
 apply plugin: 'application'
 
